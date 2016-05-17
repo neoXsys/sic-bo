@@ -1,1 +1,1 @@
-# sic-bo
+This Dockerfile will build sic-bogame container on Ubuntu image. It will generate unique combination of sic-bo game result. We will generate three random number from 1-6, resemble DICE and give us unique combination of sic-bo game result.
